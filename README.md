@@ -266,7 +266,7 @@ graph LR
 
 ### Link do Figma
 
-🔗 **[Acesse o protótipo navegável aqui](SEU_LINK_FIGMA)**
+🔗 **[Acesse o protótipo navegável aqui](https://dragon-radix-88156452.figma.site/)**
 
 ### Como Navegar
 
