@@ -46,7 +46,7 @@ Ajudar jovens adultos (18-35 anos) a controlar suas finanças pessoais de forma 
 ### 🎓 Contexto Acadêmico
 
 - **Disciplina:** Design de Interação e Interface (UX/UI)
-- **Instituição:** [Sua instituição]
+- **Instituição:** UniFECAF & RocketSeat
 - **Período:** 2026
 - **Tipo:** Protótipo de alta fidelidade navegável
 
@@ -408,15 +408,6 @@ FinancaFacil/
 └── LICENSE                            # Licença MIT
 ```
 
-### Documentos Disponíveis
-
-1. **[Documento Teórico](docs/Parte_1_Documento_Teorico.docx)** - Análise do problema, persona, jornada, decisões de UX/UI e acessibilidade
-2. **[Guia do Figma](docs/Parte_2_Guia_Figma.docx)** - Tutorial completo para criar o protótipo do zero
-3. **[Roteiro Vídeo Pitch](docs/Parte_3_Roteiro_Video.docx)** - Script detalhado para apresentação de 4 minutos
-4. **[Especificações Técnicas](docs/design_system_specs.md)** - Design System completo com medidas exatas
-
----
-
 ## 👨‍💻 Como Visualizar
 
 ### Requisitos
@@ -517,14 +508,9 @@ FinancaFacil/
 
 ## 👤 Autor
 
-**[Seu Nome]**
+** Marcos Detrano**
 
-- 🎓 Estudante de [Seu Curso]
-- 🏫 [Sua Instituição]
-- 📧 Email: [seu.email@exemplo.com]
-- 💼 LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-- 🎨 Behance: [behance.net/seu-perfil](https://behance.net/seu-perfil)
-- 🐙 GitHub: [@seu-usuario](https://github.com/seu-usuario)
+- 🐙 GitHub: [@seu-usuario](https://github.com/msdetrano/)
 
 ---
 
@@ -538,7 +524,7 @@ Se você quiser:
 - 📖 Contribuir com a documentação
 - 🎨 Propor variações de design
 
-Abra uma [issue](https://github.com/seu-usuario/financafacil/issues) ou entre em contato diretamente!
+Abra uma [issue](https://github.com/msdetrano/Finan-aF-cil) ou entre em contato diretamente!
 
 ---
 
@@ -549,7 +535,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ```
 MIT License
 
-Copyright (c) 2026 [Seu Nome]
+Copyright (c) 2026 Marcos Detrano
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -560,10 +546,7 @@ in the Software without restriction...
 
 ## 🙏 Agradecimentos
 
-- **Prof. [Nome do Professor]** - Orientação e feedback valioso
-- **Colegas de turma** - Discussões enriquecedoras sobre UX/UI
-- **Comunidade de design** - Inspiração e referências
-- **Usuários que testaram** - Feedback essencial para melhorias
+- **Prof. Patricia Miscolcz** - Orientação e feedback valioso
 
 ---
 
@@ -581,17 +564,13 @@ in the Software without restriction...
 
 ### Ferramentas e Recursos
 - [Figma Community](https://www.figma.com/community)
-- [Feather Icons](https://feathericons.com/)
-- [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)
-- [Laws of UX](https://lawsofux.com/)
-
 ---
 
 <div align="center">
 
 ### ⭐ Se este projeto foi útil para você, considere dar uma estrela!
 
-**Desenvolvido com 💚 por [Seu Nome]**
+**Desenvolvido com 💚 por Marcos Detrano**
 
 **2026 - Projeto Acadêmico de UX/UI Design**
 
